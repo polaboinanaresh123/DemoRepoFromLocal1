@@ -2,4 +2,5 @@ first file
 remotes/origin/branchmaster
   remotes/origin/master
   remotes/origin/naresh1
+remotte/origin
   remotes/origin/secondbranch
